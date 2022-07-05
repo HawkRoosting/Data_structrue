@@ -75,3 +75,4 @@ int main()
     int out = OutQueue(Q, OutElem);
     printf("Outgoing element is %d", out);
 }
+//modify
